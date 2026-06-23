@@ -1,0 +1,11 @@
+torch
+transformers>=4.57
+numpy
+pandas
+pyarrow
+scikit-learn
+pytorch-metric-learning
+pillow
+tqdm
+matplotlib
+scipy

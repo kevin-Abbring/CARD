@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+outputs/
+*.npy
+*.pkl
+*.parquet
+*.json
+.DS_Store
